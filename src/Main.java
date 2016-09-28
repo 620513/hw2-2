@@ -17,6 +17,7 @@ import java.util.*;
             else if(i==2)
             {
                 Truck t= new Truck();
+
             }
             else
             {
